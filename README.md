@@ -34,4 +34,8 @@
       <td><img src="https://img.shields.io/static/v1?label=&message=Docker&color=blue&style=for-the-badge&logo=docker&logoColor=white" /></td>
       <td><img src="https://img.shields.io/static/v1?label=&message=AWS&color=darkorange&style=for-the-badge&logo=amazon-aws&logoColor=white" /></td>
    </tr>
+    <tr>
+      <th>Tests</th>
+      <td><img src="https://img.shields.io/static/v1?label=&message=Getting%20data%20...&color=white&style=for-the-badge&logo=loading&logoColor=white" /></td>
+   </tr>
 </table>
