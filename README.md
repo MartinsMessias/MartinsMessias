@@ -2,7 +2,7 @@
 
 :heart: Passionate about challenges and troubleshooting using code
 
-[![Linkedin Badge](https://img.shields.io/badge/-Messias%20Martins-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/messias-martins/)](https://www.linkedin.com/in/messias-martins/)
+[![Linkedin Badge](https://img.shields.io/badge/-Messias%20Martins-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/messias-martins/)](https://www.linkedin.com/in/messias-martins/) [![Site Badge](https://img.shields.io/badge/-Messias%20Martins-blue?style=for-the-badge&logo=curl&logoColor=white&link=https://martinsmessias.github.io/)](https://martinsmessias.github.io/)
 
 <table>
     <tr>
