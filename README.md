@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-:heart: Passionate about challenges and troubleshooting using code
+:heart: I am passionate about challenges and troubleshooting using code
 
 [![Linkedin Badge](https://img.shields.io/badge/-Messias%20Martins-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/messias-martins/)](https://www.linkedin.com/in/messias-martins/) [![Site Badge](https://img.shields.io/badge/-Portfolio-darkcyan?style=for-the-badge&icon=web&logoColor=white&link=https://martinsmessias.github.io/)](https://martinsmessias.github.io/)
 
