@@ -4,7 +4,7 @@
 
 :star: Self-taught and lover of innovation.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Messias%20Martins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/messias-martins/)](https://www.linkedin.com/in/messias-martins/) [![Site Badge](https://img.shields.io/badge/-Portfolio-darkcyan?style=flat-square&icon=postwoman&logoColor=white&link=https://martinsmessias.github.io/)](https://martinsmessias.github.io/)
+[![Linkedin Badge](https://img.shields.io/badge/-Messias%20Martins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/messias-martins/)](https://www.linkedin.com/in/messias-martins/) [![Site Badge](https://img.shields.io/badge/-Site-darkcyan?style=flat-square&icon=postwoman&logoColor=white&link=https://martinsmessias.github.io/)](https://martinsmessias.github.io/)
 
 ### :toolbox: My toolbox
 
