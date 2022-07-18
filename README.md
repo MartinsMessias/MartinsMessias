@@ -4,9 +4,11 @@
 
 :star: Self-taught and lover of innovation.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Messias%20Martins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/messias-martins/)](https://www.linkedin.com/in/messias-martins/) [![Site Badge](https://img.shields.io/badge/-Site-darkcyan?style=flat-square&icon=postwoman&logoColor=white&link=https://martinsmessias.github.io/)](https://martinsmessias.github.io/)
+[![Linkedin Badge](https://img.shields.io/badge/-Messias%20Martins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/messias-martins/)](https://www.linkedin.com/in/messias-martins/)
 
-### :toolbox: My toolbox
+<!-- [![Site Badge](https://img.shields.io/badge/-Site-darkcyan?style=flat-square&icon=postwoman&logoColor=white&link=https://martinsmessias.github.io/)](https://martinsmessias.github.io/) -->
+
+
 #### I currently work with
 <img src="https://img.shields.io/static/v1?label=&message=Python&color=blue&style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/static/v1?label=&message=AWS&color=darkorange&style=flat-square&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/static/v1?label=&message=Serverless&color=orange&style=flat-square&logo=serverless&logoColor=white" /> <img src="https://img.shields.io/static/v1?label=&message=Git&color=orange&style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/static/v1?label=&message=Docker&color=blue&style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/static/v1?label=&message=Django&color=darkgreen&style=flat-square&logo=django&logoColor=white" />
  
